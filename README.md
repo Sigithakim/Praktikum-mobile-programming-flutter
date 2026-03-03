@@ -1,17 +1,30 @@
-# aplikasi_2306024
+PRAKTIKUM MOBILE PROGRAMMING DENGAN FLUTTER
 
-A new Flutter project.
+Deskripsi
+Repository ini berisi hasil praktikum pemrograman mobile menggunakan Flutter. Project ini dikembangkan sebagai bagian dari pembelajaran pengembangan aplikasi mobile berbasis Dart dan Flutter.
 
-## Getting Started
+Tujuan
+Mempelajari dasar Flutter.
+Memahami struktur project Flutter.
+Membuat tampilan menggunakan widget.
+Mengelola navigasi antar halaman.
 
-This project is a starting point for a Flutter application.
+Teknologi
+Flutter
+Dart
 
-A few resources to get you started if this is your first Flutter project:
+Struktur Project
+lib berisi source code utama aplikasi.
+android berisi konfigurasi Android.
+ios berisi konfigurasi iOS.
+web berisi konfigurasi web.
+test berisi unit testing.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Cara Menjalankan
+Install Flutter SDK.
+Jalankan flutter doctor.
+Jalankan flutter pub get.
+Jalankan flutter run.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pengembang
+Sigit Firman Hakim
